@@ -12,3 +12,5 @@ The project uses VLC libraries.
 DONT TAKE THESE OUT OF THEIR FOLDERS
 
 ### Insert VLC installation path in WeaponTaculation.java just below the main method definition
+
+> The project size is 0.98 GB due to media files, sorry for that😅
